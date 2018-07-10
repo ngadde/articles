@@ -10,11 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>kotlin-null-nonsafety</module>
-        <module>hamming-error-correction</module>
-        <module>priorityqueue-stream-order</module>
-        <module>sneaky-throws-lambda</module>
-        <module>kotlin-type-inference</module>
+        <module>idiomatic-fp</module>
     </modules>
 
     <properties>
